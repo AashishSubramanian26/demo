@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Aashish Subramanian/Documents/GitHub/demo/demo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Aashish Subramanian/Documents/GitHub/demo/demo/Content/BP-TEST.uasset",
+				"C:/Users/Aashish Subramanian/Documents/GitHub/demo/demo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TJ/ZW1NCZZPQA05BKJG6RGJ5T.uasset"
+			]
+		}
+	]
+}
